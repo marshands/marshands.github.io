@@ -4,7 +4,7 @@ title: "About This Website"
 
 I work in Appalachian's Behavioral Neuroscience lab (pictured below) with a team of students all deeply invested in their work. In this lab I have had the opportunity to mentor other students. 
 
-I am hoping to recieve a Fulbright or Marshall scholarship and do a research masters program at Keele Univerisity in the United Kingdom and work in this lab 
+I am hoping to recieve a Fulbright or Marshall scholarship and do a research masters program at Keele Univerisity in the United Kingdom.
 
 <p style= "text-align: center;"> <img src= "croppedpic.jpg"> </p>
 
