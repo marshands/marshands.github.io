@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "My Website"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About"
       href: about.html
     - text: "Resume"
@@ -14,4 +12,9 @@ navbar:
     - text: ""
       icon: fa-github fa-lg
       href: https://github.com/marshands/marshands.github.io
+      
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
       

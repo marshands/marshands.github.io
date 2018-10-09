@@ -2,9 +2,11 @@
 title: "My Website"
 ---
 
-![](https://mathr.math.appstate.edu/s/054ab66170d3e52ea7982/files/GitRepositories/marshands.github.io/mountain-highway-1400x0-c-default%20(1).jpg)
+![](mountain-highway.jpg)
+
 
 #
+
 
 ####Hello!
 
